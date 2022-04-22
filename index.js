@@ -1,0 +1,1 @@
+console.log('Ju qka bot')
